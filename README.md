@@ -13,19 +13,9 @@
 
 ---
 
-### 📁 What You’ll Find Here
-
-- 🔓 Open-source projects with honest documentation  
-- 📝 Reflections on what I understand, what I don’t, and what I’m learning  
-- 🧰 Real effort: no fake flexing, no shortcuts — just progress  
-- 📈 A growing archive of projects that reflect how I think, work, and learn
-
----
-
 ### 🔍 What I Know (Right Now)
-
-- ❌ I don’t fully know how to code — yet  
-- ✅ But I *do* know how to think clearly, ask better questions, and chase solutions  
+ 
+- ✅ I know how to think clearly, ask better questions, and chase solutions  
 - ⚙️ I explore, prototype, and learn by building, not waiting  
 - 🤝 I treat AI as a collaborator, not a crutch — and I always credit where credit’s due
 
@@ -33,8 +23,7 @@
 
 ### 🎯 My Focus Right Now
 
-- Turning real-world problems into open-source experiments  
-- Learning HTML, Python, and logic — not just copying code, but *understanding* it  
+- Turning real-world problems into open-source experiments    
 - Becoming someone who builds useful, meaningful things that help people  
 - Developing the mindset & portfolio of a future creator, researcher, and leader
 
